@@ -1,1 +1,1 @@
-My Python sample
+Topological sorting of Git commits
