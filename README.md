@@ -1,1 +1,1 @@
-Topological sorting of Git commits
+Implements topological sorting of Git commits
